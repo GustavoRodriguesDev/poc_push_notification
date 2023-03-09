@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312374620478",
+    "project_id": "pock-push-notification-76021",
+    "storage_bucket": "pock-push-notification-76021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312374620478:android:65496913b0fd9be4b4bc6f",
+        "android_client_info": {
+          "package_name": "com.example.pock_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312374620478-70kck9bs6lggkagfibovckkqevphuusn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_aUtnOeQ2coLhA65IRF5KC0uDleu0m9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312374620478-70kck9bs6lggkagfibovckkqevphuusn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
